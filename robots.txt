@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imovouji.github.io/sitemap/sitemap_index.txt.gz
